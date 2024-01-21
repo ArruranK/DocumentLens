@@ -12,4 +12,6 @@ DocumentLens is a chat application that combines the power of Flask API as the b
 
 - **Chroma DB**: This project uses Chroma for an in-memory vector database
 
+## Example
+
 ![image](https://github.com/ArruranK/DocumentLens/assets/72510002/da7f53ee-9e74-4039-9966-9acbdace8081)
