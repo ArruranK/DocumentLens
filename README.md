@@ -13,3 +13,7 @@ DocumentLens is a chat application that makes understanding large documents simp
 - **Cohere API**: Embedding and Large Language Models
 
 - **Chroma DB**: In-memory Vector Database
+
+## Examples
+
+![Screenshot 2024-01-20 205701](https://github.com/ArruranK/DocumentLens/assets/72510002/9dc0298d-ced6-4afe-b862-89300911595d)
