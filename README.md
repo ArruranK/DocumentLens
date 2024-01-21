@@ -6,7 +6,7 @@ DocumentLens is a chat application that makes understanding large documents simp
 
 - **React Frontend**: Used to create dynamic and responsive user interface
 
-- **Flask API Backend**: API that alloows uploading files and processing user messages
+- **Flask API Backend**: API that allows uploading files and processing user messages
   
 - **Langchain**: Used to implement RAG capabailities
 
