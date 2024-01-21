@@ -1,16 +1,18 @@
 # DocumentLens
 
-DocumentLens is a chat application that combines the power of Flask API as the backend and React as the frontend. The project leverages Cohere's API and Langchain to enhance the chat experience and facilitate seamless communication.
+DocumentLens is a chat application that makes understanding large documents simple. Just upload the file and have the chatbot find the answers for you!
 
 ## Features
 
-- **Flask API Backend**: The backend of DocumentLens is built using Flask, a lightweight and versatile web framework for Python. Flask provides a robust foundation for handling API requests and managing the core functionality of the application.
+- **React Frontend**: Used to create dynamic and responsive user interface
 
-- **React Frontend**: DocumentLens features a dynamic and responsive user interface developed with React. The frontend ensures a smooth and interactive user experience, allowing users to engage with the chat application effortlessly.
+- **Flask API Backend**: API that alloows uploading files and processing user messages
+  
+- **Langchain**: Used to implement RAG capabailities
 
-- **Cohere's API Integration**: Cohere's API is integrated into DocumentLens making conversations more meaningful and context-aware.
+- **Cohere API**: Embedding and Large Language Models
 
-- **Chroma DB**: This project uses Chroma for an in-memory vector database
+- **Chroma DB**: In-memory Vector Database
 
 ## Example
 
