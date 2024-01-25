@@ -8,7 +8,7 @@ DocumentLens is a chat application that makes understanding large documents simp
 
 - **Flask API Backend**: API that allows uploading files and processing user messages
   
-- **Langchain**: Used to implement RAG capabailities
+- **Langchain**: Used to implement RAG capabilities
 
 - **Cohere API**: Embedding and Large Language Models
 
